@@ -8,6 +8,7 @@ Comparison of how many initially drafted players were in the starting lineup wee
 ![Weekly Scores](/images/drafted-vs-starters.png)
 
 Displayed as a percentage:
+
 | Name    | Drafted Players Started | Regular Season Record |
 | ------- | ----------------------- | --------------------- |
 | James   | 80.56%                  | 9-5                   |
