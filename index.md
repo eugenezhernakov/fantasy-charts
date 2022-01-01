@@ -8,20 +8,7 @@ Comparison of how many initially drafted players were in the starting lineup wee
 ![Weekly Scores](/images/drafted-vs-starters.png)
 
 Displayed as a percentage:
-| Name    | Drafted Players Started | Regular Season Record |
-| ------- | ----------------------- | --------------------- |
-| James   | 80.56%                  | 9-5                   |
-| Connor  | 80.56%                  | 6-8                   |
-| Joe     | 78.47%                  | 4-10                  |
-| Corr    | 75.00%                  | 12-2                  |
-| Reade   | 72.22%                  | 8-6                   |
-| Eugene  | 68.08%                  | 8-6                   |
-| Brian   | 65.97%                  | 7-7                   |
-| Kathryn | 61.11%                  | 9-5                   |
-| Jib     | 56.25%                  | 5-9                   |
-| Liam    | 45.83%                  | 0-14                  |
-| Darren  | 39.58%                  | 6-8                   |
-| Sean    | 38.89%                  | 10-4                  |
+![Table](/images/table.png)
 
 ## Average Weekly Score
 An average number of points put up by individuals, weekly.
