@@ -8,7 +8,6 @@ Comparison of how many initially drafted players were in the starting lineup wee
 ![Weekly Scores](/images/drafted-vs-starters.png)
 
 Displayed as a percentage:
-
 | Name    | Drafted Players Started | Regular Season Record |
 | ------- | ----------------------- | --------------------- |
 | James   | 80.56%                  | 9-5                   |
@@ -33,8 +32,6 @@ An average number of points put up by individuals, weekly.
 
 ## Points Per Week
 Points put up by everyone on a weekly basis.
-
-[View interactive chart](/charts/weekly-scores.md)
 
 ![Weekly Scores](/images/weekly-scores.png)
 
