@@ -35,4 +35,8 @@ Points put up by everyone on a weekly basis.
 
 ![Weekly Scores](/images/weekly-scores.png)
 
+## Point Distribution
+Looking at the total points at the end of the season put up collectively by the group - who has the biggest slice of the pie.
+
+![Weekly Scores](/images/point-distribution.png)
 
