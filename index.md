@@ -8,7 +8,8 @@ Comparison of how many initially drafted players were in the starting lineup wee
 ![Weekly Scores](/images/drafted-vs-starters.png)
 
 Displayed as a percentage:
-![Table](/images/table.png)
+
+<img src='images/table.png' width="400px" height="400px">
 
 ## Average Weekly Score
 An average number of points put up by individuals, weekly.
